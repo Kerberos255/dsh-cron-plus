@@ -1,0 +1,4 @@
+- select: '~'
+  insert:
+    - id: cron-plus
+      name: dsh-cron-plus
